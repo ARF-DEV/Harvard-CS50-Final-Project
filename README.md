@@ -1,2 +1,3 @@
 # Harvard-CS50-Final-Project
-Harvard's Intro to Computer Science Final Project
+This is a game i made for Harvard's Intro to Computer Science Final Project
+called "A Tower Defense Game"
